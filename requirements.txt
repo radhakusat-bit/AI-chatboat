@@ -1,6 +1,8 @@
 streamlit
-python-dotenv
 groq
-chromadb
+python-dotenv
+pandas
 pypdf
+requests
+chromadb
 sentence-transformers
